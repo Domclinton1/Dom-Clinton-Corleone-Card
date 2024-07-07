@@ -19,11 +19,11 @@ function drop(){
 }
 function vidro(){
   var click = window.document.getElementById('vidro')
-  window.open("https://vidracariaoriente.com.br", '_blank')
+  window.open("https://www.instagram.com/vidracaria_visaocristalina/", '_blank')
 }
 function  create(){
   var click = window.document.getElementById('create')
-  window.open("https://wa.me/5531994038782?text=Ola,%20quero%20fazer%20um%20orçamento%20sobre um link-tree...")
+  window.open("https://wa.me/5531994038782?text=Ola,%20quero%20fazer%20um%20orçamento%20sobre gestão de tráfego pago...")
 }
 
 function insta(){
@@ -52,7 +52,7 @@ function dlsdinsta(){
 }
 function cttinsta(){
   var click = window.document.getElementById('cttinsta')
-  window.open("https://www.instagram.com/casaraotemdetudo/", '_blank')
+  window.open("https://www.instagram.com/celular_paradise/", '_blank')
 }
 
 window.onload = function() {
