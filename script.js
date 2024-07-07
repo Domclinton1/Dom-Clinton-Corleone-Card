@@ -11,7 +11,7 @@ function toggleAudio() {
   window.onload = toggleAudio;
 function dlsd(){
   var click = window.document.getElementById('dlsd')
-  window.open("https://domlinksolucoesdigitais.vercel.app", '_blank')
+  window.open("https://domlinksolucoesdigitais.com.br", '_blank')
 }
 function drop(){
   var click = window.document.getElementById('drop')
